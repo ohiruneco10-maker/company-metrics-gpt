@@ -1,4 +1,6 @@
 flask
+gunicorn
 yfinance
 pandas
-gunicorn
+beautifulsoup4
+requests
